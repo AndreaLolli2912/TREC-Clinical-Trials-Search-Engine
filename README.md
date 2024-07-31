@@ -1,5 +1,5 @@
 # Clinical Trials Search Engine
-#### I created this project in collaboration with my colleagues [Kristian Perriù](https://github.com/kristianperriu), [Chibuzor J. Amadi](https://github.com/chibuzoramadi), as part of the final Web and Social Networks Search and Analysis exam assignment
+#### I created this project in collaboration with my colleagues [Kristian Perriù](https://github.com/kristianperriu), [Chibuzor J. Amadi](https://github.com/chibuzoramadi), as part of the final Information Retrieval and Recommender Systems exam assignment
 The goal is to create an intuitive platform that allows researchers and healthcare professionals to efficiently search and access information related to clinical trials based on textual descriptions of patients.
 
 ## Project Overview
